@@ -3,9 +3,6 @@ Pod::Spec.new do |s|
   s.version      = "0.0.1"
   s.summary      = "OBD2Kit iPhone Car Diagnostic Library"
 
-  s.description  = <<-DESC
-                   DESC
-
   s.homepage     = "https://github.com/amaechler/OBD2Kit"
   s.license     = { :type => 'Apache License, Version 2.0',
                     :text => <<-LICENSE
